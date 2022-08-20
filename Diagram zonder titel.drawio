@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T16:22:44.886Z" agent="5.0 (Windows)" etag="Of22BUzZMpMmUDWbDTg7" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-20T16:29:17.792Z" agent="5.0 (Windows)" etag="CMScTZz-RI1SVf-613Sm" version="20.2.5" type="github">
   <diagram id="mYPG_qAB2JkAkDNk--a2" name="Pagina-1">
-    <mxGraphModel dx="1012" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1262" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,19 +31,25 @@
           <mxGeometry y="199" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IXTUPJLgbKb1r88hFRmQ-17" value="" style="line;strokeWidth=2;direction=south;html=1;fillStyle=auto;fontFamily=Verdana;fontSize=10;fillColor=#87CEFA;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="675" y="158" width="10" height="162" as="geometry" />
+          <mxGeometry x="675" y="158" width="10" height="362" as="geometry" />
         </mxCell>
         <mxCell id="IXTUPJLgbKb1r88hFRmQ-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;♀ &lt;b&gt;Sophie&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;(28/04/1895 - &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;&lt;b&gt;†&lt;/b&gt; 12/01/1909 te Groningen)&lt;/font&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFC0CB;strokeColor=#FF1493;fillStyle=auto;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="677" y="200" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IXTUPJLgbKb1r88hFRmQ-19" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;♀ &lt;b&gt;Maria&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;(26/10/1890 - † 1979? te Saramacca)&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt; &lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFC0CB;strokeColor=#FF1493;fillStyle=auto;opacity=50;fontFamily=Verdana;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="650" y="320" width="150" height="70" as="geometry" />
+          <mxGeometry x="677" y="519" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="plow9R5SB9hflpFcKOpZ-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;♀ &lt;b&gt;..&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;( - &lt;b&gt;†&lt;/b&gt;&amp;nbsp; )&lt;/font&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;&amp;nbsp;/ &lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFC0CB;strokeColor=#FF1493;fillStyle=auto;opacity=50;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="440" y="310" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="plow9R5SB9hflpFcKOpZ-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;♂ ..&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;( - &lt;b&gt;†&lt;/b&gt; )&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;i&gt;&amp;nbsp;/ &lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#00BFFF;fillColor=#87CEFA;gradientColor=none;opacity=50;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="300" y="480" width="150" height="70" as="geometry" />
+        <mxCell id="plow9R5SB9hflpFcKOpZ-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;♂ &lt;b&gt;Thanu&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Kathu&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;(1884 - &lt;b&gt;† &lt;/b&gt;1964?)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;i&gt;&amp;nbsp;LL/838 &lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#00BFFF;fillColor=#87CEFA;gradientColor=none;opacity=50;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="490" y="519" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="plow9R5SB9hflpFcKOpZ-4" value="" style="line;strokeWidth=2;direction=south;html=1;fillStyle=auto;fontFamily=Verdana;fontSize=10;fillColor=#87CEFA;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="159" width="10" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="plow9R5SB9hflpFcKOpZ-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;♂ ..&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;( - &lt;b&gt;†&lt;/b&gt; )&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;i&gt;&amp;nbsp;/ &lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#00BFFF;fillColor=#87CEFA;gradientColor=none;opacity=50;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="100" y="585" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
