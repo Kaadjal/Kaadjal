@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T21:43:53.227Z" agent="5.0 (Windows)" etag="oig7eY2wOUujv_0ts2ay" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-21T21:45:10.556Z" agent="5.0 (Windows)" etag="uws8ea7F742FZSwtxCaU" version="20.2.5" type="github">
   <diagram id="RtKDkZXLekao4AofPfH7" name="Pagina-1">
-    <mxGraphModel dx="1138" dy="-567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="459" dy="-926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="fUTgCYwdAWdXHMsG8nzH-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;♂ &lt;b&gt;Ernst Soender&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;(08/09/1932 - &lt;b&gt;† &lt;/b&gt;26/08/1991)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#00BFFF;fillColor=#87CEFA;gradientColor=none;fontFamily=Verdana;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="607.3099999999998" y="1959.08" width="121" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="fUTgCYwdAWdXHMsG8nzH-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;♀ &lt;b&gt;Jagrani &lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Sobnath&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;(././19. - &lt;b&gt;† &lt;/b&gt;31/08/1970)&lt;/font&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFC0CB;strokeColor=#FF1493;fillStyle=auto;fontFamily=Verdana;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="467.21000000000004" y="1959.08" width="118.69" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fUTgCYwdAWdXHMsG8nzH-5" value="" style="line;strokeWidth=2;html=1;fillStyle=auto;fontFamily=Verdana;fontSize=10;fillColor=#87CEFA;gradientColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="9.639999999999986" y="2056.08" width="810" height="10" as="geometry" />
@@ -263,10 +260,10 @@
           <mxGeometry x="5.01" y="1216" width="110.64" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ywJN9bI66jIx-n4YI8Ty-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;♀ &lt;b&gt;Soemintra&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Rhagosing&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;(5/6/1919 - &lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;&lt;b&gt;†&lt;/b&gt; ??&lt;/font&gt;&lt;/font&gt;)&lt;/font&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFC0CB;strokeColor=#FF1493;fillStyle=auto;fontFamily=Verdana;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="80.00000000000006" y="1800" width="84.69" height="80" as="geometry" />
+          <mxGeometry x="80.00000000000006" y="1822" width="84.69" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ywJN9bI66jIx-n4YI8Ty-9" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;♂ &lt;b&gt;..&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;( -&amp;nbsp; &lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;&lt;b&gt;†&lt;/b&gt;&lt;/font&gt;)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#00BFFF;fillColor=#87CEFA;gradientColor=none;fontFamily=Verdana;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="641.02" y="1800" width="85" height="80" as="geometry" />
+          <mxGeometry x="637.14" y="1822" width="85" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ywJN9bI66jIx-n4YI8Ty-10" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillStyle=auto;fontFamily=Verdana;fontSize=10;fontColor=#000000;strokeColor=#FF1493;strokeWidth=2;fillColor=#FFC0CB;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="360.86000000000007" y="1342" width="15.01" height="20" as="geometry" />
@@ -287,13 +284,16 @@
           <mxGeometry x="172" y="1450" width="40" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ywJN9bI66jIx-n4YI8Ty-18" value="" style="line;strokeWidth=2;direction=south;html=1;fillStyle=auto;fontFamily=Verdana;fontSize=10;fillColor=#87CEFA;gradientColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="515.13" y="1938.08" width="10" height="21" as="geometry" />
+          <mxGeometry x="515.13" y="1939.08" width="10" height="21" as="geometry" />
         </mxCell>
         <mxCell id="ywJN9bI66jIx-n4YI8Ty-20" value="" style="line;strokeWidth=2;html=1;shadow=0;sketch=0;fillColor=#FF1493;" vertex="1" parent="1">
           <mxGeometry x="40" y="1935" width="479.85" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ywJN9bI66jIx-n4YI8Ty-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillStyle=auto;fontFamily=Verdana;fontSize=10;fillColor=#87CEFA;gradientColor=none;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="376.35" y="1636.21" width="52.34" height="554.93" as="geometry" />
+          <mxGeometry x="381.47" y="1641.71" width="36.69" height="558.3" as="geometry" />
+        </mxCell>
+        <mxCell id="fUTgCYwdAWdXHMsG8nzH-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;♀ &lt;b&gt;Jagrani &lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Sobnath&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;(././19. - &lt;b&gt;† &lt;/b&gt;31/08/1970)&lt;/font&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFC0CB;strokeColor=#FF1493;fillStyle=auto;fontFamily=Verdana;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="467.21000000000004" y="1959.08" width="118.69" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
