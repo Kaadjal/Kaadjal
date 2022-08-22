@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T21:16:46.305Z" agent="5.0 (Windows)" etag="5hM2rLHPfTo0nb73vrT0" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T21:31:37.670Z" agent="5.0 (Windows)" etag="e2ME06E4mABU_RLV-y5n" version="20.2.6" type="github">
   <diagram id="QsF9KQ43uPJceqjKFDkp" name="Pagina-1">
-    <mxGraphModel dx="636" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
           <mxGeometry x="134.99999999999997" y="162" width="10" height="21" as="geometry" />
         </mxCell>
         <mxCell id="hvDQOx-uLEZTj26FYRvB-16" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;♀ &lt;b&gt;..&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;( - &lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;&lt;b&gt;†&lt;/b&gt; ??&lt;/font&gt;&lt;/font&gt;)&lt;/font&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFC0CB;strokeColor=#FF1493;fillStyle=auto;fontFamily=Verdana;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="490.3799999999999" y="301" width="84.69" height="80" as="geometry" />
+          <mxGeometry x="730.0699999999999" y="183" width="84.69" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hvDQOx-uLEZTj26FYRvB-17" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;♂ &lt;b&gt;Bhuddhoo&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;(07/02/1900 - &lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;&lt;b&gt;†&lt;/b&gt; 28/01/1901 t.g.v. mergziekte&lt;/font&gt;)&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#00BFFF;fillColor=#87CEFA;gradientColor=none;fontFamily=Verdana;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="97.50000000000011" y="183" width="85" height="80" as="geometry" />
@@ -57,7 +57,7 @@
         <mxCell id="hvDQOx-uLEZTj26FYRvB-19" value="" style="line;strokeWidth=2;direction=south;html=1;fillStyle=auto;fontFamily=Verdana;fontSize=10;fillColor=#87CEFA;gradientColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="355" y="161" width="10" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="hvDQOx-uLEZTj26FYRvB-20" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;♂ &lt;b&gt;Mangal&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;(27/07/1904 - &lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;&lt;b&gt;†&lt;/b&gt; &lt;/font&gt;)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#00BFFF;fillColor=#87CEFA;gradientColor=none;fontFamily=Verdana;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="hvDQOx-uLEZTj26FYRvB-20" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;♂ &lt;b&gt;Mangal&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;(27/07/1904 - &lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;&lt;b&gt;†&lt;/b&gt; &lt;/font&gt;)&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#00BFFF;fillColor=#87CEFA;gradientColor=none;fontFamily=Verdana;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="198.0000000000001" y="183" width="85" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hvDQOx-uLEZTj26FYRvB-22" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;♂ &lt;b&gt;Ramnath&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;(19/09/1906 - &lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;&lt;b&gt;†&lt;/b&gt; &lt;/font&gt;)&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#00BFFF;fillColor=#87CEFA;gradientColor=none;fontFamily=Verdana;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
@@ -103,6 +103,12 @@
         </mxCell>
         <mxCell id="hvDQOx-uLEZTj26FYRvB-45" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;♂ &lt;b&gt;..&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;( -&amp;nbsp; &lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;&lt;b&gt;†&lt;/b&gt;&lt;/font&gt;)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#00BFFF;fillColor=#87CEFA;gradientColor=none;fontFamily=Verdana;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="413.0000000000001" y="183" width="85" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hvDQOx-uLEZTj26FYRvB-46" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;♂ &lt;b&gt;..&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;( -&amp;nbsp; &lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;&lt;b&gt;†&lt;/b&gt;&lt;/font&gt;)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#00BFFF;fillColor=#87CEFA;gradientColor=none;fontFamily=Verdana;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="517.1500000000001" y="183" width="85" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hvDQOx-uLEZTj26FYRvB-47" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;♀ &lt;b&gt;..&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;( - &lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Verdana&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; size=&quot;3&quot;&gt;&lt;b&gt;†&lt;/b&gt; ??&lt;/font&gt;&lt;/font&gt;)&lt;/font&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFC0CB;strokeColor=#FF1493;fillStyle=auto;fontFamily=Verdana;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="183" width="84.69" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
